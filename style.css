@@ -84,6 +84,9 @@ body {
 .todos__button:hover::after {
   opacity: 1; }
 
+  .fasfa-arrow-down {
+    display: flex;
+  }
 [type="checkbox"] {
   -webkit-appearance: none;
   -moz-appearance: none;
